@@ -1,4 +1,4 @@
-# COMA: COstractive and MArgin losses for efficient structure-constrained molecular generation 
+# COMA: COnstractive and MArgin losses for efficient structure-constrained molecular generation 
 
 <img src="figs/overview_of_COMA.png" alt="thumbnail" width="600px" />
 
