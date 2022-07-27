@@ -1,0 +1,7 @@
+*.pyc
+MTMR/__pycache__
+DATA/qed
+DATA/drd2
+DATA/logp04
+DATA/logp06
+.ipynb_checkpoints
