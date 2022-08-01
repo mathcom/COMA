@@ -1,4 +1,4 @@
-# COMA: COnstractive and MArgin losses for efficient structure-constrained molecular generation 
+# COMA: efficient structure-constrained molecular generation using COnstractive and MArgin losses
 
 <img src="figs/overview_of_COMA.png" alt="thumbnail" width="600px" />
 
@@ -8,7 +8,7 @@ COMA translates a source molecule into a novel molecule having desirable chemica
 
 COMA requires simplified molecular-input line-entry system (SMILES) strings as inputs.
 
-For more detail, please refer to Choi, et. al. "Collaboration of Metric Learning and Reinforcement Learning for Efficient Structure-constrained Molecular Generation" (under review)
+For more detail, please refer to Choi, et. al. "Efficient Structure-constrained Molecular Generation using Constarctive and Margin losses" (under review)
 
 
 * Latest update: 28 July 2022
