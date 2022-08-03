@@ -16,9 +16,9 @@ For more detail, please refer to Choi, et. al. "Efficient Structure-constrained 
 --------------------------------------------------------------------------------------------
 ## SYSTEM REQUIERMENTS: 
 
-- MTMR requires system memory larger than 8GB.
+- COMA requires system memory larger than 8GB.
 
-- (if GPU is available) MTMR requires GPU memory larger than 8GB.
+- (if GPU is available) COMA requires GPU memory larger than 8GB.
 
 
 --------------------------------------------------------------------------------------------
