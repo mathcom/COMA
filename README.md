@@ -11,7 +11,7 @@ COMA requires simplified molecular-input line-entry system (SMILES) strings as i
 For more detail, please refer to Choi, et. al. "Efficient Structure-constrained Molecular Generation using Constarctive and Margin losses" (under review)
 
 
-* Latest update: 28 July 2022
+* Latest update: 01 September 2022
 
 --------------------------------------------------------------------------------------------
 ## SYSTEM REQUIERMENTS: 
@@ -58,7 +58,7 @@ cd ..
 --------------------------------------------------------------------------------------------
 ## Tutorials:
 
-- We provide several jupyter-notebooks for tutorials.
+- We provide several jupyter-notebooks for each benchmark.
   - 1_pretraining.ipynb
   - 2_finetuning.ipynb
   - 3_latent_space_analysis.ipynb
