@@ -8,10 +8,10 @@ COMA translates a source molecule into a novel molecule having desirable chemica
 
 COMA requires simplified molecular-input line-entry system (SMILES) strings as inputs.
 
-For more detail, please refer to Choi, et. al. "Efficient Structure-constrained Molecular Generation using Constarctive and Margin losses" (under review)
+For more detail, please refer to Choi, J., Seo, S. and Park, S., 2023. **COMA: efficient structure-constrained molecular generation using contractive and margin losses**. *Journal of Cheminformatics*, 15(1), pp.1-13.
 
 
-* Latest update: 01 September 2022
+- Latest update: 01 Feburary 2023
 
 --------------------------------------------------------------------------------------------
 ## SYSTEM REQUIERMENTS: 
