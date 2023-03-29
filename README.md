@@ -1,5 +1,7 @@
 # COMA: efficient structure-constrained molecular generation using COnstractive and MArgin losses
 
+## We regrefully inform this repo is under refactoring, which will be finished by early April.
+
 - Latest update: 29 March 2023
 
 <img src="figs/overview_of_COMA.png" alt="thumbnail" width="600px" />
@@ -48,8 +50,7 @@ cd DATA
 tar -xzvf drd2.tar.gz
 tar -xzvf qed.tar.gz
 tar -xzvf logp04.tar.gz
-tar -xzvf logp06.tar.gz
-tar -xzvf abcg2.tar.gz
+tar -xzvf logp06.tar.gz=
 cd ..
 ```
 
