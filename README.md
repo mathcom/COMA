@@ -8,10 +8,10 @@ COMA translates a source molecule into a novel molecule having desirable chemica
 
 COMA requires simplified molecular-input line-entry system (SMILES) strings as inputs.
 
-For more detail, please refer to Choi, J., Seo, S. and Park, S., 2023. **COMA: efficient structure-constrained molecular generation using contractive and margin losses**. *Journal of Cheminformatics*, 15(1), pp.1-13.
+For more detail, please refer to Choi, J., Seo, S. & Park, S. **COMA: efficient structure-constrained molecular generation using contractive and margin losses**. *J Cheminform* 15, 8 (2023). https://doi.org/10.1186/s13321-023-00679-y
 
 
-- Latest update: 01 Feburary 2023
+- Latest update: 29 March 2023
 
 --------------------------------------------------------------------------------------------
 ## SYSTEM REQUIERMENTS: 
@@ -19,7 +19,9 @@ For more detail, please refer to Choi, J., Seo, S. and Park, S., 2023. **COMA: e
 - COMA requires system memory larger than 8GB.
 
 - (if GPU is available) COMA requires GPU memory larger than 8GB.
+-- Available cudatoolkit versions: 10.2, 11.1, and 11.3
 
+- **COMA is only for Python 3.7**
 
 --------------------------------------------------------------------------------------------
 ## Installation:
