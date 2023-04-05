@@ -1,7 +1,5 @@
 # COMA: efficient structure-constrained molecular generation using COnstractive and MArgin losses
 
-## We regrefully inform this repo is under refactoring, which will be finished by early April.
-
 - Latest update: 05 April 2023
 
 <img src="figs/overview_of_COMA.png" alt="thumbnail" width="600px" />
@@ -76,6 +74,12 @@ jupyter notebook
 
 conda deactivate
 ```
+
+
+--------------------------------------------------------------------------------------------
+## Source codes:
+
+- The source codes of COMA are available at https://github.com/mathcom/mol-coma
 
 
 --------------------------------------------------------------------------------------------
