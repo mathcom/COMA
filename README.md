@@ -1,6 +1,6 @@
 # COMA: efficient structure-constrained molecular generation using COnstractive and MArgin losses
 
-- Latest update: 07 July 2023
+- Latest update: 31 Oct 2023
 
 <img src="figs/overview_of_COMA.png" alt="thumbnail" width="600px" />
 
@@ -19,7 +19,6 @@ For more detail, please refer to J. Choi, S. Seo, and S. Park. **COMA: efficient
 - (If GPU is available) COMA may require GPU memory larger than 6GB.
   - Available cudatoolkit versions: 10.2, 11.1, and 11.3
 
-- **COMA is only for Python 3.7**
 
 --------------------------------------------------------------------------------------------
 ## Installation:
@@ -32,6 +31,14 @@ For more detail, please refer to J. Choi, S. Seo, and S. Park. **COMA: efficient
 git clone https://github.com/mathcom/COMA.git
 cd COMA
 conda env create -f environment.yml
+```
+
+- For the reproducibility of our paper, you should use the legacy env file.
+  - DRD2 oracle is functional only in Python 3.7
+  - Except for DRD2, other properties are available in the latest Python and PyTorch
+
+```bash
+conda env create -f environment_legacy.yml
 ```
 
 --------------------------------------------------------------------------------------------
@@ -64,7 +71,7 @@ cd ..
 --------------------------------------------------------------------------------------------
 ## Scripts:
 
-- We provide several jupyter-notebooks, which are available for reproducibility.
+- We provide several jupyter-notebooks to explain how to use COMA.
   - 1_pretraining.ipynb
   - 2_finetuning.ipynb
   - 3_latent_space_analysis.ipynb
@@ -93,7 +100,7 @@ conda deactivate
 --------------------------------------------------------------------------------------------
 ## Contact:
 
-- Email: mathcombio@yonsei.ac.kr
+- Email: jonghwanc@hallym.ac.kr
 
 
 --------------------------------------------------------------------------------------------

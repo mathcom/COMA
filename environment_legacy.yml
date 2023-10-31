@@ -2,11 +2,11 @@ name: coma
 channels:
   - defaults
 dependencies:
-  - python=3.8
-  - numpy
+  - python=3.7
+  - numpy=1.19.5
   - cudatoolkit=11.3.1
-  - pytorch=1.12.1=gpu_cuda113py38h19ae3d8_1
+  - pytorch::pytorch=1.10.1
   - jupyter
   - pip
   - pip:
-    - mol-coma
+    - mol-coma==0.1.5
